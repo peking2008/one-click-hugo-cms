@@ -1,6 +1,6 @@
 ---
 title: Values
-image: img/ad-4.jpg
+image: img/banner4.jpg
 values:
   - heading: Shade-grown coffee
     text: >
