@@ -1,29 +1,28 @@
 ---
-title: 专业工作服定制
-subtitle: 专业服装设计、服装定制的规范现代化企业
+title: 北京工作服定制
+subtitle: 有实力的你选择有实力的工服定制公司
 image: /img/home-jumbotron.jpg
 blurb:
   heading: 工服定制为什么选择我们？
   text: 公司成立于1990年，工作服生产加工厂家,专注于企事业单位各类服装定制,西服职业装定制,员工工服定制,工程服定做,劳保工装厂服定制,还有现货工作服批发销售,提供工作服设计LOGO刺绣印花.
 intro:
-  heading: 我们提供的服务
+  heading: 北京工作服定制厂家
   text: 公司成立于1990年，工作服生产加工厂家,专注于企事业单位各类服装定制,西服职业装定制,员工工服定制,工程服定做,劳保工装厂服定制,还有现货工作服批发销售,提供工作服设计LOGO刺绣印花.
 products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: img/1418292661652.jpg.middle.jpg
+    text: |-
+      长袖工作服套装定制，适合简约大气的穿着搭配，线条剪裁流畅利落，颜色低调稳重，搭配精致饰品
+      充满了现代的时尚感和职业姿态，往往越是简约风格的服装，越能穿出知性的韵味
+  - image: img/微信截图_20201124150042.png
+    text: "采用防水透气科技涂层面料，保暖内里，为冬季户外活动工作提供全方位保护！         "
 values:
   heading: 企业价值观
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: |-
+    装由我变——永无止境。
+    心划潮流，衣之所属，魂之所在。曌划时代，形之所属，魂之所在，用心创造。
+    日月当空开辟新的时代，形象最能诠释，衣着乃是形象的灵魂所在，团结一致用心去创造
+
+    “诚”遵守诺言就像保卫你的荣誉一样。
+    “变”创新是一个民族进步的林混，是国家兴旺的不竭动力。
+    “无”无论在什么时候，永远不要以为自己已知道了一切。
 ---
