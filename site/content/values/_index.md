@@ -1,5 +1,5 @@
 ---
-title: Values
+title: 核心价值
 image: img/banner4.jpg
 values:
   - heading: Shade-grown coffee
