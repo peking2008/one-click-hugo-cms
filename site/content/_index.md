@@ -1,9 +1,9 @@
 ---
 title: 北京工作服定制
 subtitle: 有实力的你选择有实力的工服定制公司
-image: img/11.png
+image: img/banner.jpg
 blurb:
-  heading: 工服定制为什么选择我们？
+  heading: 我们的优势
   text: 公司成立于1990年，工作服生产加工厂家,专注于企事业单位各类服装定制,西服职业装定制,员工工服定制,工程服定做,劳保工装厂服定制,还有现货工作服批发销售,提供工作服设计LOGO刺绣印花.
 intro:
   heading: 北京工作服定制厂家
