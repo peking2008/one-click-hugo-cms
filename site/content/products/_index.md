@@ -36,15 +36,15 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: img/5.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: img/7.png
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: img/ad-4.jpg
 testimonials: []
-full_image: /img/products-full-width.jpg
+full_image: img/banner3.jpg
 pricing:
   heading: Monthly subscriptions
   description: We make it easy to make great coffee a part of your life. Choose
