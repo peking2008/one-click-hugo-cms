@@ -3,15 +3,7 @@ title: 联系我们
 logo: img/bg.png
 contact_entries: []
 ---
-<style type="text/css">
-    html,body{margin:0;padding:0;}
-    .iw_poi_title {color:#CC5522;font-size:14px;font-weight:bold;overflow:hidden;padding-right:13px;white-space:nowrap}
-    .iw_poi_content {font:12px arial,sans-serif;overflow:visible;padding-top:4px;white-space:-moz-pre-wrap;word-wrap:break-word}
-</style>
-
 <script type="text/javascript" src="http://api.map.baidu.com/api?key=&v=1.1&services=true"></script>
-
-  <!--百度地图容器-->
 
   <div style="width:697px;height:550px;border:#ccc solid 1px;" id="dituContent"></div>
 
@@ -112,10 +104,6 @@ contact_entries: []
     
     initMap();//创建和初始化地图
 </script>
-
-
-
-
 
 **北京恒睿九州商贸有限公司**
 
