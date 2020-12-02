@@ -32,12 +32,10 @@ intro:
     
     恒睿九州商贸从事服装加工与定制十余年，在业内拥有良好的口碑，凭借自身良好的信誉和优质的服务及产品持续稳定而快速的发展，奠定了恒睿九州制衣在工作服制服行业的的主导地位，成为众多优秀企业的长期稳定的工服供应商！
 main:
-  heading: Great coffee with no compromises
+  heading: 为什么选择我们
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    雄厚的企业规模最具资格的行业认证：公司已于2010年通过ISO9001：公司全部严格按照质量认证ISO 9001：2008、环境认证ISO
+    GB/T14001-2004、职业健康认证GB/T 28001:2001的规定流程标准进行运作，生产的产品全部符合或高于国家及行业标准。
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: img/5.png
